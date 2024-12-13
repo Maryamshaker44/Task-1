@@ -72,7 +72,7 @@ class MyApp extends StatelessWidget {
                           child: Text(
                             character.character,
                             style: const TextStyle(
-                              color: Colors.white,
+                              color: Colors.black,
                               fontSize: 30,
                               fontWeight: FontWeight.bold,
                             ),
